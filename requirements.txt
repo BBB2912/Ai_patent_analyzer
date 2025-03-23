@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+faiss-cpu
+numpy
+sentence-transformers
+langchain
+langchain-core
+langchain_community
+google-generativeai
+matplotlib
+wordcloud
+langchain_google_genai
+streamlit
